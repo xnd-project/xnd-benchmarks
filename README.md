@@ -56,6 +56,8 @@ xnd:   0.7372479438781738
 This benchmark measures creating subarray views:
 
 ```
+$ python subarray.py
+
 Small subarray view
 -------------------
 
@@ -75,6 +77,8 @@ Medium sized subarray view
 This benchmark measures accessing elements:
 
 ```
+$ python elements.py
+
 Accessing an element in a small array
 -------------------------------------
 
