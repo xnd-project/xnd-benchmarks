@@ -22,7 +22,7 @@ print("--------------\n")
 start = time()
 x = xnd.array(lst)
 stop = time()
-print("   xnd:", stop-start)
+print("   xnd:  ", stop-start)
 del x
 
 start = time()

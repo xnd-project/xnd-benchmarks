@@ -12,7 +12,7 @@ $ python data_conversion_int64.py
 Type inference
 --------------
 
-   xnd: 0.21521806716918945
+   xnd:   0.21521806716918945
    numpy: 0.4042797088623047
 
 Dtype provided
