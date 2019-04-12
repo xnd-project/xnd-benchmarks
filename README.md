@@ -1,5 +1,5 @@
 
-# XND compared with NumPy.
+# XND compared with NumPy
 
 
 ## Data conversion from Python values
