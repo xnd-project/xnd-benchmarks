@@ -50,3 +50,46 @@ Full type provided
 
 xnd:   0.7372479438781738
 ```
+
+## Subarray views
+
+This benchmark measures creating subarray views:
+
+```
+Small subarray view
+-------------------
+
+   xnd:   0.1433429718017578
+   numpy: 0.11738085746765137
+
+Medium sized subarray view
+--------------------------
+
+   xnd:   0.24525141716003418
+   numpy: 0.24730181694030762
+```
+
+
+## Accessing elements
+
+This benchmark measures accessing elements:
+
+```
+Accessing an element in a small array
+-------------------------------------
+
+   xnd:   0.23404860496520996
+   numpy: 0.1790611743927002
+
+Accessing an element in a medium sized array
+--------------------------------------------
+
+   xnd:   0.35030698776245117
+   numpy: 0.3094639778137207
+
+Accessing an element in an array of tuples
+------------------------------------------
+
+xnd:   0.24957680702209473
+numpy: 0.7213478088378906
+```
