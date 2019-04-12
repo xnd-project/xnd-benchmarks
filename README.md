@@ -94,6 +94,6 @@ Accessing an element in a medium sized array
 Accessing an element in an array of tuples
 ------------------------------------------
 
-xnd:   0.24957680702209473
-numpy: 0.7213478088378906
+   xnd:   0.24957680702209473
+   numpy: 0.7213478088378906
 ```

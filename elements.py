@@ -60,7 +60,7 @@ start = time()
 for i in range(repeat):
     y = x[701299][0]
 stop = time()
-print("xnd:  ", stop-start)
+print("   xnd:  ", stop-start)
 del x
 
 dt = np.dtype([('name', 'U10'), ('age', 'i4'), ('weight', 'f4')])
@@ -69,5 +69,5 @@ start = time()
 for i in range(repeat):
     y = x[701299][0]
 stop = time()
-print("numpy:", stop-start)
+print("   numpy:", stop-start)
 del x
