@@ -1,0 +1,6 @@
+asv/results/
+.vscode/
+*.pyc
+**/__pycache__/
+env/
+asv/xnd-project/
